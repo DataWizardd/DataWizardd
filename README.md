@@ -5,23 +5,10 @@
 
 ## 🛠 **Tech Stack**
 
-### **Languages**
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50px" />
-<br/><br/>
-
-### **Tools**
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="Excel" height="50px" />
-<br/><br/>
-
-### **Frameworks**
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="50px" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="50px" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" height="50px" />
-<br/><br/>
-
-### **Databases**
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height="50px" />
-<br/><br/>
 
 ---
 <!--

@@ -9,13 +9,11 @@
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="50px" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="50px" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height="50px" />
-<br/><br/>
----
+
 ## 📬 **Let’s Connect!**
 - **GitHub**: [DataWizardd](https://github.com/DataWizardd)  
 - **Email**: [james4327@gmail.com](mailto:james4327@gmail.com)  
 
----
 
 
 <!--

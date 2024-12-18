@@ -11,6 +11,13 @@
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height="50px" />
 
 ---
+## 📬 **Let’s Connect!**
+- **GitHub**: [DataWizardd](https://github.com/DataWizardd)  
+- **Email**: [james4327@gmail.com](mailto:james4327@gmail.com)  
+
+---
+
+
 <!--
 **DataWizardd/DataWizardd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -6,10 +6,10 @@
 ## 🛠 **Tech Stack**
 
 
-- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) **Python**  
-- ![TensorFlow](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg) **TensorFlow**  
-- ![PyTorch](https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg) **PyTorch**
-- ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) **MySQL**  
+- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+- ![TensorFlow](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg)
+- ![PyTorch](https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg) 
+- ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) 
 
 ---
 

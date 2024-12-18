@@ -1,5 +1,7 @@
 ## ✨DataWizardd✨
-
+- 🎓 **Major**: International Trade & Computer Science  
+- 📍 **Interests**: Data Analysis, ML&DL
+- 🌟 **Goal**: To become a data expert who solves problems and provides efficient solutions through data  
 <!--
 **DataWizardd/DataWizardd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -5,16 +5,17 @@
 
 ## 🛠 **Tech Stack**
 
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50px" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="50px" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="50px" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height="50px" />
+
+- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) **Python**  
+- ![TensorFlow](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg) **TensorFlow**  
+- ![PyTorch](https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg) **PyTorch**
+- ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) **MySQL**  
+
+---
 
 ## 📬 **Let’s Connect!**
 - **GitHub**: [DataWizardd](https://github.com/DataWizardd)  
 - **Email**: [james4327@gmail.com](mailto:james4327@gmail.com)  
-
-
 
 <!--
 **DataWizardd/DataWizardd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

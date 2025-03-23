@@ -15,7 +15,8 @@
 
 ## 📬 **Let’s Connect!**
 - **GitHub**: [DataWizardd](https://github.com/DataWizardd)  
-- **Email**: [james4327@gmail.com](mailto:james4327@gmail.com)  
+- **Email**: [james4327@gmail.com](mailto:james4327@gmail.com)
+- https://huggingface.co/DataWizardd/finbert-sentiment-ko
 
 ## 📊 Statistics
 

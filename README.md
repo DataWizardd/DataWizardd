@@ -1,7 +1,6 @@
 ## ✨DataWizardd✨
 - 🎓 **Major**: Trade & Computer Science  
-- 📍 **Interests**: Data Analysis, ML&DL
-- 🌟 **Goal**: To become a data expert who solves problems and provides efficient solutions through data
+- 📍 **Interests**: Data Analysis, ML&DL, LLM
 
 ## 🛠 **Tech Stack**
 

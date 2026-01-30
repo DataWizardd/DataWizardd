@@ -20,19 +20,15 @@
 
 ### 📊 GitHub Magic Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DataWizardd&show_icons=true&theme=radical&title_color=76E7FF&icon_color=76E7FF" height="150" alt="Stats Card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataWizardd&layout=compact&theme=radical&title_color=76E7FF" height="150" alt="Top Langs Card" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DataWizardd&theme=radical&fire=76E7FF&ring=76E7FF&currStreakLabel=76E7FF" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DataWizardd&show_icons=true&theme=radical&title_color=76E7FF&icon_color=76E7FF" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DataWizardd&layout=compact&theme=radical&title_color=76E7FF" height="150" />
 </p>
 
 ---
 
 ### 🐍 The Contribution Snake
 <p align="center">
-  <img src="https://github.com/DataWizardd/DataWizardd/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+  <img src="https://raw.githubusercontent.com/DataWizardd/DataWizardd/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </p>
 
 ---

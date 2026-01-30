@@ -20,12 +20,12 @@
 
 ### 📊 GitHub Magic Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DataWizardd&show_icons=true&theme=radical&title_color=76E7FF&icon_color=76E7FF" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataWizardd&layout=compact&theme=radical&title_color=76E7FF" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DataWizardd&show_icons=true&theme=radical&title_color=76E7FF&icon_color=76E7FF" height="150" alt="Stats Card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataWizardd&layout=compact&theme=radical&title_color=76E7FF" height="150" alt="Top Langs Card" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DataWizardd&theme=transparent&fire=76E7FF&sideLabels=76E7FF&stroke=76E7FF&ring=76E7FF&currStreakNum=ffffff&currStreakLabel=76E7FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DataWizardd&theme=radical&fire=76E7FF&ring=76E7FF&currStreakLabel=76E7FF" alt="GitHub Streak" />
 </p>
 
 ---

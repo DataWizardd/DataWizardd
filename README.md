@@ -20,8 +20,8 @@
 
 ### 📊 GitHub Magic Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DataWizardd&show_icons=true&theme=transparent&title_color=76E7FF&text_color=ffffff&icon_color=76E7FF&border_color=76E7FF&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataWizardd&layout=compact&theme=transparent&title_color=76E7FF&text_color=ffffff&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DataWizardd&show_icons=true&theme=radical&title_color=76E7FF&icon_color=76E7FF" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataWizardd&layout=compact&theme=radical&title_color=76E7FF" height="150"/>
 </p>
 
 <p align="center">
